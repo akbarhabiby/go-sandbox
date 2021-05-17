@@ -107,7 +107,7 @@ func greet(name, hobby, job string) (string, error) {
 	}
 }
 
-// ! OLD
+// ! OLD Code
 // package main
 
 // import (
